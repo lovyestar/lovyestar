@@ -9,8 +9,6 @@
 
 ## Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mamelst12&show_icons=true&theme=catppuccin_latte)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mamelst12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Mamelst12/Mamelst12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
