@@ -1,5 +1,5 @@
 
-# [Yestar_ 💫](https://blog.naver.com/yestar__)
+# [Yestar_ 💫](yestar.dev)
 
 **🌱 I’m currently learning ..**
 
